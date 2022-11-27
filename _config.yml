@@ -7,6 +7,7 @@ avatar: /assets/img/chris-johns-profile.jpg
 url: 'https://chrisjohns.me'
 github:
   username: chrisjohns_me
+  repository_url: https://github.com/ChrisJohns-me/chrisjohns.me
 social:
   name: Chris Johns
   links:
