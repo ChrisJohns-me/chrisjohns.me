@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Blog, Who Dis'
+title: New Blog, Who Dis
 slug: new-blog-who-dis
 categories: Meta
 date: 2020-09-19T20:58:37.968Z
