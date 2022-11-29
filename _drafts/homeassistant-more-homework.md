@@ -7,3 +7,5 @@ date:
 ---
 
 # HomeAssistant
+
+Before the pandemic started, I dove in the deep end into home automation.

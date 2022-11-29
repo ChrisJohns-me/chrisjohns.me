@@ -2,4 +2,21 @@
 ---
 @import "{{ site.theme }}";
 
+.header-navbar {
+  display: flex;
+  max-width: 640px;
+  margin: 0 auto;
+  gap: 1rem;
 
+  .nav-item {
+    display: inline-block;
+    color: white;
+    background-color: #757575;
+    padding: 10px 25px;
+    font-size: 1.2rem;
+    
+    &.active {
+      background-color: #00a6ec;
+    }
+  }
+}
