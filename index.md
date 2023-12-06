@@ -5,7 +5,7 @@ title: Home
 
 ## Titillating Links
 
-| For the Lulz                                                                           | YouTube Videos                                                                 |
+| For the Lulz                                                                           | Videos                                                                         |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | [Find my mouse pointer](https://pointerpointer.com){:target="_blank"}                  | [Badger song](https://youtu.be/NL6CDFn2i3I){:target="_blank"}                  |
 | [Tweetgen](https://www.tweetgen.com){:target="_blank"}                                 | [Charlie the Unicorn](https://youtu.be/CsGYh8AacgY){:target="_blank"}          |
@@ -21,7 +21,6 @@ title: Home
 | [Visual Studio Code](https://code.visualstudio.com){:target="_blank"}   | [Programming Principals](https://github.com/webpro/programming-principles){:target="_blank"}  |
 | [HackerRank](https://www.hackerrank.com){:target="_blank"}              | [Robustness Principle](https://en.wikipedia.org/wiki/Robustness_principle){:target="_blank"}  |
 |                                                                         | [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy){:target="_blank"}            |
-|                                                                         | [DZone](https://dzone.com){:target="_blank"}                                                  |
 |                                                                         | [Dev Community](https://dev.to){:target="_blank"}                                             |
 |                                                                         | [Usability Geek](https://usabilitygeek.com){:target="_blank"}                                 |
 
@@ -35,7 +34,7 @@ title: Home
 | [Rick and Morty](https://www.imdb.com/title/tt2861424/){:target="_blank"}   | [The Matrix](https://www.imdb.com/title/tt0133093/){:target="_blank"}                     |
 | [Westworld](https://www.imdb.com/title/tt0475784/){:target="_blank"}        | [Pixar films](https://www.imdb.com/search/title/?companies=co0017902){:target="_blank"}   |
 | [Ted Lasso](https://www.imdb.com/title/tt10986410/){:target="_blank"}       | [V for Vendetta](https://www.imdb.com/title/tt0434409/){:target="_blank"}                 |
-| [Downton Abbey](https://www.imdb.com/title/tt1606375/){:target="_blank"}    | |
+| [Downton Abbey](https://www.imdb.com/title/tt1606375/){:target="_blank"}    | [Tron: Legacy](https://www.imdb.com/title/tt1104001/){:target="_blank"}                   |
 | [Archer](https://www.imdb.com/title/tt1486217/){:target="_blank"}           | |
 
 ## Auditory Consumption
@@ -50,6 +49,17 @@ title: Home
 | [Starboy ft. Daft Punk - The Weeknd](https://youtu.be/34Na4j8AVgA){:target="_blank"}        | [Box of Beats - M.I.A](https://youtu.be/P9iAYqfpvHQ){:target="_blank"} |
 | [Xenogenesis - TheFatRat](https://youtu.be/2Ax_EIb1zks){:target="_blank"}                   | [Born Yesterday (feat. Brigetta) - Tritonal](https://youtu.be/aaO3gBj-cfk){:target="_blank"} |
 | [As the World Caves In - Sarah Cothran](https://youtu.be/SqDjQPoJxiw){:target="_blank"}     | [Leaving Earth - Seven Lions](https://youtu.be/3rLyY8H3xaA){:target="_blank"} |
+
+## Interactive Consumption
+
+| Single Player                                                                                                    | Multi-Player                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [Portal](https://en.wikipedia.org/wiki/Portal_(series)){:target="_blank"}                                        | [Apex Legends](https://en.wikipedia.org/wiki/Apex_Legends){:target="_blank"}                                    |
+| [Titanfall](https://en.wikipedia.org/wiki/Titanfall_2){:target="_blank"}                                         | [Halo](https://en.wikipedia.org/wiki/Halo_(franchise)){:target="_blank"}                                        |
+| [Hellblade](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice){:target="_blank"}                      | [Overwatch 2](https://en.wikipedia.org/wiki/Overwatch_2){:target="_blank"}                                      |
+| [Roller Coaster Tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_(video_game)){:target="_blank"}       | [Command & Conquer: Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert){:target="_blank"}  |
+| [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(series)){:target="_blank"}                                  | [StarCraft](https://en.wikipedia.org/wiki/StarCraft){:target="_blank"}|
+| [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda){:target="_blank"}                       | |
 
 ## About Me
 
