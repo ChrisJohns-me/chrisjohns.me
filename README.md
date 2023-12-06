@@ -1,5 +1,7 @@
 # ChrisJohns.me Blog - A [Jekyll](https://jekyllrb.com) built website
 
+[![pages-build-deployment](https://github.com/ChrisJohns-me/chrisjohns.me/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ChrisJohns-me/chrisjohns.me/actions/workflows/pages/pages-build-deployment)
+
 ## Table of Contents
 
 - [ChrisJohns.me Blog - A Jekyll built website](#chrisjohnsme-blog---a-jekyll-built-website)
