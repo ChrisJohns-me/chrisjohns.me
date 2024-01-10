@@ -61,7 +61,7 @@ defaults:
       location: Post
       breadcrumb:
         -
-          label: Posts
+          label: Blog Posts
           url: /
   -
     scope:
@@ -147,5 +147,5 @@ sitemap_exclude:  # Sitemap will exclude the following items.
 navigation:
  - text: Home
    url: /
- - text: Posts
+ - text: Blog Posts
    url: /posts/
