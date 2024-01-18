@@ -14,6 +14,7 @@ title: Home
 ## Useful Links
 
 ### Idk, life?
+
 | Digital                                                       |
 | ------------------------------------------------------------- |
 | [Johnny Decimal](https://johnnydecimal.com){:target="_blank"} |
