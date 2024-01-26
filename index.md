@@ -62,7 +62,7 @@ title: Home
 | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | [Portal](https://en.wikipedia.org/wiki/Portal_(series)){:target="_blank"}                                        | [Apex Legends](https://en.wikipedia.org/wiki/Apex_Legends){:target="_blank"}                                    |
 | [Titanfall](https://en.wikipedia.org/wiki/Titanfall_2){:target="_blank"}                                         | [Halo](https://en.wikipedia.org/wiki/Halo_(franchise)){:target="_blank"}                                        |
-| [Hellblade](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice){:target="_blank"}                      | [Overwatch](https://en.wikipedia.org/wiki/Overwatch_2){:target="_blank"}                                        |
+| [Hellblade: Senua's Sacrifice](https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice){:target="_blank"}                      | [Overwatch](https://en.wikipedia.org/wiki/Overwatch_2){:target="_blank"}                                        |
 | [Roller Coaster Tycoon](https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_(video_game)){:target="_blank"}       | [Command & Conquer: Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert){:target="_blank"}  |
 | [Half-Life](https://en.wikipedia.org/wiki/Half-Life_(series)){:target="_blank"}                                  | [StarCraft](https://en.wikipedia.org/wiki/StarCraft){:target="_blank"}|
 | [The Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda){:target="_blank"}                       | |
