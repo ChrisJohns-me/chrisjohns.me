@@ -2,7 +2,7 @@
 layout: post
 title: The Johnny Decimal System
 slug: the-johnny-decimal-system
-categories: Meta
+categories: Organization
 date: 2024-02-02T22:12:37.968Z
 ---
 
