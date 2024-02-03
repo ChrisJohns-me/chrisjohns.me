@@ -17,7 +17,7 @@ title: Home
 
 | Digital                                                       |
 | ------------------------------------------------------------- |
-| [Johnny Decimal](https://johnnydecimal.com){:target="_blank"} |
+| [Johnny Decimal](https://johnnydecimal.com){:target="_blank"} ([my blog post](/posts/the-johnny-decimal-system)) |
 
 ### Software Engineering
 
