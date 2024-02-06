@@ -6,4 +6,3 @@ categories: software
 date: 
 ---
 
-# NativeScript
