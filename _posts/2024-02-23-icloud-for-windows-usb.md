@@ -12,19 +12,17 @@ We'll unfortunately need to use Windows's Command Prompt and also utilize the `m
 
 ## iCloud Drive
 
-1. In iCloud for Windows, Turn off iCloud Drive; it will have you remove all files via `Delete from PC`.
+1. In iCloud for Windows, Turn off iCloud Drive; it will have you remove all files via `Delete from PC`. And in File Explorer, delete the `iCloudDrive`.
 
-1. Open the iCloud Drive folder location in Windows File Explorer, and delete the `iCloudDrive` folder.
-
-1. Create a symbolic link by opening the Command Prompt and run the following (make sure to edit before running):
+2. Create a symbolic link by opening the Command Prompt and run the following (make sure to edit before running):
 
     ```sh
     mklink /J "C:\Users\chris\iCloudDrive" "D:\iCloudDrive"
     ```
 
-1. Create the `iCloudDrive` folder on the USB drive.
+3. Create the `iCloudDrive` folder on the USB drive.
 
-1. In iCloud for Windows, Turn on iCloud Drive and select the symbolic link as the location.
+4. In iCloud for Windows, Turn on iCloud Drive and select the symbolic link as the location.
 
 If iCloud for Windows starts mistakenly delete your iCloud Drive files, see [Recovering A Bad Sync](#recovering-a-bad-sync).
 
@@ -32,9 +30,7 @@ If iCloud for Windows starts mistakenly delete your iCloud Drive files, see [Rec
 
 We're going to do almost the same with iCloud Photos.
 
-1. In iCloud for Windows, Turn off iCloud Photos; it will have you remove all files via `Delete from PC`. (same with Shared Albums if you want those backed up as well.)
-
-1. Open the iCloud Photos folder location in Windows File Explorer (probably within Pictures), and delete the `iCloud Photos` folder.
+1. In iCloud for Windows, Turn off iCloud Photos; it will have you remove all files via `Delete from PC`. (same with Shared Albums if you want those backed up as well.). And in File Explorer, delete the `iCloud Photos` from within your Pictures folder.
 
 1. Create a symbolic link by opening the Command Prompt and run the following (make sure to edit before running):
 
