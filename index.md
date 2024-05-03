@@ -10,13 +10,14 @@ title: Home
 | [Find my mouse pointer](https://pointerpointer.com){:target="_blank"}                  | [Badger song](https://youtu.be/NL6CDFn2i3I){:target="_blank"}                  |
 | [Tweetgen](https://www.tweetgen.com){:target="_blank"}                                 | [Charlie the Unicorn](https://youtu.be/CsGYh8AacgY){:target="_blank"}          |
 | [PlayPhrase](https://playphrase.me){:target="_blank"}                                  | |
+| [Library of Babel](https://libraryofbabel.info){:target="_blank"}                      | |
 
 ## Useful Links
 
 ### Idk, life?
 
-| Digital                                                       |
-| ------------------------------------------------------------- |
+| Digital                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- |
 | [Johnny Decimal](https://johnnydecimal.com){:target="_blank"} ([my blog post](/posts/the-johnny-decimal-system)) |
 
 ### Software Engineering
