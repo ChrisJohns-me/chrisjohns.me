@@ -6,7 +6,7 @@ categories: software home-automation
 date: 2024-02-06T10:12:37.968Z
 ---
 
-<!-- (modified 2024-02-06) -->
+<!-- (modified 2024-06-27) -->
 
 I’ve been through a few iterations of home automation systems… Google Nest, Home Assistant + NodeRed, POE cameras, etc… I’ve tried a LOT of products, a LOT of setups, and dealt with a LOT of headaches (namely, the HomeAssistant setup).
 
@@ -52,6 +52,8 @@ Field of view is great, picture quality is great, floodlight can be a little fin
 Spend some time in the reviews for the Eve Outdoor Camera, you’ll see: difficult to install. Spend some more time in the reviews about ANY Eve Camera, you’ll then see that they all have problems with disconnecting.
 I only choose the Eve Outdoor camera because these problems can be mitigated by disabling the motion sensor (or just changing the settings, resetting the device to factory, or just power cycling). The biggest problem that people have misunderstood, is that their WiFi connection is most likely the issue, not the Eve Outdoor Camera. Unfortunately, WiFi settings may be to blame for random disconnects; Eve Indoor Cameras are just plagued with their own disconnect issues…
 
+(Update: after owning two of these for more than 6 months, they're very good... IF they're close to your WiFi signal. I think that might be the deciding factor: if you can have it mounted fairly close to a WiFi access point, you're golden. Mine just so happen to be 10ft and 20ft away from access points, with NO DISCONNECTS! It's also possible that Apple HomeKit has done some good software updates to fix video disconnect issues.)
+
 #### Indoor Camera
 
 TP-Link’s [**Tapo C125**](https://www.tapo.com/us/product/smart-camera/tapo-c125/) (⭐️⭐️⭐️⭐️ 4/5)
@@ -82,8 +84,14 @@ Also: Their app sucks.
 
 #### Thermostats
 
-[**Ecobee3 lite**](https://www.ecobee.com/) (TBD) - Go read the reviews, you'll see why this is everyone's favorite thermostat. Although it's a little more costly than what I'd like, it's still a great thermostat for what you need. And you don't need to connect to any cloud services (looking at you, Google Nest!).
+[**Ecobee3 lite**](https://www.ecobee.com/en-us/smart-thermostats/) (⭐️⭐️⭐️⭐️✨ 4.5/5) - Go read the reviews, you'll see why this is everyone's favorite thermostat. Although it's a little more costly than what I'd like, it's still a great thermostat for what you need. And you don't need to connect to any cloud services (looking at you, Google Nest!).
 (I wish HomeKit had some sort of way to manage the thermostat scheduling, but that is unrelated to Ecobee's implementation of the HomeKit.)
+I've got two of these (upstairs and downstairs), set-up was as normal as everything else, and they do exactly what they're supposed to. Their interface on the thermostats are good.
+
+The web user-interface is teetering on "clunky", but I'll give it a pass since the functionality is there and it works.
+The only strange thing is that I'll notice that if it's trying to reach a temperature, it doesn't keep the fan on too long (I don't know if this is their, "Smart Recovery" mode in action or not); it almost seems like it's trying to reach that temperature gradually. This hasn't been enough of an issue to warrant a customer service call.
+Speaking of their customer service: great! I had an issue with set-up on one thermostat (it was giving me some system error). They were quick, helpful, friendly, and knowledgeable; would love to call again.
+
 
 [**Meross Thermostats**] - I have not tried the Meross thermostats. However, I'd be interested in trying more things from Meross, considering how good their Garage Door Opener has been.
 
@@ -114,6 +122,16 @@ The temperature reading is fairly quick (you can't expect good battery life AND 
 **Logitech Circle View indoor camera** (✨ 0.5/5 ) - I tried everything to make this camera reliable. I even put it 5ft away from my WiFi router… still would have random times where it’d stop responding to the Home app. It’d work for a full week with no problems, and then randomly stop working for days. Too many people had the same issue with this camera for it to be a coincidence. Simply avoid.
 
 **Eve Indoor camera** (⭐️⭐️ 2/5) - this wasn’t completely terrible of a camera, but still had similar issues as Logitech’s Circle View indoor camera, just not nearly as often. It’d work for weeks and weeks, and randomly stop responding for a few hours and come back online. Better reliability, but still not reliable enough for the premium price!
+
+**ecobee Smart Doorbell Camera (wired)** - I haven't tried this Smart Doorbell, and I'm not gonna.
+They're trying the usual, "Hey why don't we just offer our own cloud video hosting service and make money off of that?" thing.
+And they're deceptive on their marketing materials too. On the website, it proudly states "Apple HomeKit" is supported! But hey, check out the disclaimer at the bottom: "HomeKit Secure video is not supported."
+What does this mean? This means that the _Doorbell_ portion of the **ecobee Smart Doorbell Camera** is supported in Apple HomeKit, NOT the _Camera_ though.
+When a person presses the doorbell on your **ecobee Smart Doorbell Camera**, your Apple HomePods will chime... your iPhone will notify you of a person ringing the doorbell...
+but when you tap on that doorbell notification on your iPhone, guess what you see? Nothin'. Because they want you to purchase their video cloud subscription thing, and even if you do, the camera feed will not show in your Apple Home app; it'll only show in your ecobee app.
+Simply not worth it.
+
+
 
 #### Deadbolt Locks
 
