@@ -109,17 +109,23 @@ TP-Link’s [**Kasa smart plugs**](https://kasasmart.com) (⭐️⭐️⭐️⭐
 
 #### Temperature Sensors
 
-[**Eve Weather**](https://www.evehome.com/en-us/eve-weather) (⭐️⭐️⭐️⭐️✨ 4.5/5) - while I'm still perturbed by Eve's indoor camera issues, if you need a sensor just to see what a room's temperature (or perform basic automations with), the Eve Weather works just fine. You'll need to keep in mind that the distance to the Home Hub cannot be too far, as the Eve Weather runs off of [Threads](https://en.wikipedia.org/wiki/Thread_(network_protocol)).
-Also I had a battery die within three months (it might just be a bad battery that was included), I'm now averaging 5%-10% loss in 6 months.
-The temperature reading is fairly quick (you can't expect good battery life AND quick readings on the Home app).
-
 [**Ecobee SmartSensor**](https://www.ecobee.com/en-ca/accessories/smart-temperature-occupancy-sensor/) - I haven't actually used this device, but this is actually something I'm interested in eventually trying out. I've heard nothing but decent/good reviews.
+
+---
 
 ### The Bad
 
+#### Temperature Sensor
+
+[**Eve Weather**](https://www.evehome.com/en-us/eve-weather) (⭐️⭐️ 2/5) - while I'm still perturbed by Eve's indoor camera issues, if you need a sensor just to see what a room's temperature (or perform basic automations with), the Eve Weather works just fine. You'll need to keep in mind that the distance to the Home Hub cannot be too far, as the Eve Weather runs off of [Threads](https://en.wikipedia.org/wiki/Thread_(network_protocol)).
+Also, I had a battery die within three months (it might just be a bad battery that was included), I'm now averaging 5%-10% loss in 6 months.
+The temperature reading is fairly quick (you can't expect good battery life AND quick readings on the Home app).
+
+(Update: I've seen some previous reviewers say that these end up dying after a year or two, for some reason I didn't believe them... I purchased two of these Eve Weather devices, and guess what happened? After a year, both of them died. I'm not purchasing these again if they're just going to die after a year. Otherwise, they worked okay...)
+
 #### Indoor Cameras
 
-**Logitech Circle View indoor camera** (✨ 0.5/5 ) - I tried everything to make this camera reliable. I even put it 5ft away from my WiFi router… still would have random times where it’d stop responding to the Home app. It’d work for a full week with no problems, and then randomly stop working for days. Too many people had the same issue with this camera for it to be a coincidence. Simply avoid.
+**Logitech Circle View indoor camera** (✨ 0.5/5) - I tried everything to make this camera reliable. I even put it 5ft away from my WiFi router… still would have random times where it’d stop responding to the Home app. It’d work for a full week with no problems, and then randomly stop working for days. Too many people had the same issue with this camera for it to be a coincidence. Simply avoid.
 
 **Eve Indoor camera** (⭐️⭐️ 2/5) - this wasn’t completely terrible of a camera, but still had similar issues as Logitech’s Circle View indoor camera, just not nearly as often. It’d work for weeks and weeks, and randomly stop responding for a few hours and come back online. Better reliability, but still not reliable enough for the premium price!
 
@@ -131,11 +137,11 @@ When a person presses the doorbell on your **ecobee Smart Doorbell Camera**, you
 but when you tap on that doorbell notification on your iPhone, guess what you see? Nothin'. Because they want you to purchase their video cloud subscription thing, and even if you do, the camera feed will not show in your Apple Home app; it'll only show in your ecobee app.
 Simply not worth it.
 
-
-
 #### Deadbolt Locks
 
 Avoid **Kwikset**. I have one installed on a family member's home, and these locks are terribly loud, the user-experience is goofy, and integrating into a smart-home is clunky.
+
+---
 
 ### The Ugly
 
