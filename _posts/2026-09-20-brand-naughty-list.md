@@ -34,3 +34,12 @@ date: 2026-09-20T10:12:37.968Z
 ## PC Hardware
 
 - **NVIDIA** - History of keeping drivers proprietary or poorly updated (on Linux).
+
+## Online Services
+
+- **Microsoft** - Where to begin...
+	- Requires a Microsoft account to sign into your computer, even for offline use
+ 	- Telemetry keeps leaving your box even with the privacy toggles off
+  	- Updates regularly change your privacy settings
+  	- Local apps have been getting converted to Web apps, making them larger and more sluggish
+- **Proton** - Has re-interviewed their staff on how they use AI, with an email making clear it may decide their continued employment, after its CEO publicly berated a security engineer for suggesting pentesting new code before shipping. [Proton To ‘Re-Interview’ Staff About AI](https://archive.is/GG1Br) [Manifestos, Fear, and 'Loser Thinking'](https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/)
